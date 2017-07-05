@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Count_Real_Numbers", "01.Count_Real_Numbers\01.Count_Real_Numbers.csproj", "{1A6A2B73-7FAA-458C-A7DD-81E3BA08E3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Odd_Occurrences", "02.Odd_Occurrences\02.Odd_Occurrences.csproj", "{F9BA2DAB-F2C8-413C-8ED9-CF874AB5AE5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Min_Max_Sum_Average", "03.Min_Max_Sum_Average\03.Min_Max_Sum_Average.csproj", "{8F545BF5-63D1-4869-8113-A0C7ABE20306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Largest_3_Numbers", "04.Largest_3_Numbers\04.Largest_3_Numbers.csproj", "{2ACD221B-D213-41DE-ABB9-3EF687522439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Short_Words_Sorted", "05.Short_Words_Sorted\05.Short_Words_Sorted.csproj", "{F1A0DB4A-C125-47E1-AD3D-5E66C425C0F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Fold_and_Sum", "06.Fold_and_Sum\06.Fold_and_Sum.csproj", "{D9747F14-F83A-4B64-881C-6059C80924A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A6A2B73-7FAA-458C-A7DD-81E3BA08E3AD}.Debug|x86.ActiveCfg = Debug|x86
+		{1A6A2B73-7FAA-458C-A7DD-81E3BA08E3AD}.Debug|x86.Build.0 = Debug|x86
+		{1A6A2B73-7FAA-458C-A7DD-81E3BA08E3AD}.Release|x86.ActiveCfg = Release|x86
+		{1A6A2B73-7FAA-458C-A7DD-81E3BA08E3AD}.Release|x86.Build.0 = Release|x86
+		{F9BA2DAB-F2C8-413C-8ED9-CF874AB5AE5A}.Debug|x86.ActiveCfg = Debug|x86
+		{F9BA2DAB-F2C8-413C-8ED9-CF874AB5AE5A}.Debug|x86.Build.0 = Debug|x86
+		{F9BA2DAB-F2C8-413C-8ED9-CF874AB5AE5A}.Release|x86.ActiveCfg = Release|x86
+		{F9BA2DAB-F2C8-413C-8ED9-CF874AB5AE5A}.Release|x86.Build.0 = Release|x86
+		{8F545BF5-63D1-4869-8113-A0C7ABE20306}.Debug|x86.ActiveCfg = Debug|x86
+		{8F545BF5-63D1-4869-8113-A0C7ABE20306}.Debug|x86.Build.0 = Debug|x86
+		{8F545BF5-63D1-4869-8113-A0C7ABE20306}.Release|x86.ActiveCfg = Release|x86
+		{8F545BF5-63D1-4869-8113-A0C7ABE20306}.Release|x86.Build.0 = Release|x86
+		{2ACD221B-D213-41DE-ABB9-3EF687522439}.Debug|x86.ActiveCfg = Debug|x86
+		{2ACD221B-D213-41DE-ABB9-3EF687522439}.Debug|x86.Build.0 = Debug|x86
+		{2ACD221B-D213-41DE-ABB9-3EF687522439}.Release|x86.ActiveCfg = Release|x86
+		{2ACD221B-D213-41DE-ABB9-3EF687522439}.Release|x86.Build.0 = Release|x86
+		{F1A0DB4A-C125-47E1-AD3D-5E66C425C0F9}.Debug|x86.ActiveCfg = Debug|x86
+		{F1A0DB4A-C125-47E1-AD3D-5E66C425C0F9}.Debug|x86.Build.0 = Debug|x86
+		{F1A0DB4A-C125-47E1-AD3D-5E66C425C0F9}.Release|x86.ActiveCfg = Release|x86
+		{F1A0DB4A-C125-47E1-AD3D-5E66C425C0F9}.Release|x86.Build.0 = Release|x86
+		{D9747F14-F83A-4B64-881C-6059C80924A1}.Debug|x86.ActiveCfg = Debug|x86
+		{D9747F14-F83A-4B64-881C-6059C80924A1}.Debug|x86.Build.0 = Debug|x86
+		{D9747F14-F83A-4B64-881C-6059C80924A1}.Release|x86.ActiveCfg = Release|x86
+		{D9747F14-F83A-4B64-881C-6059C80924A1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

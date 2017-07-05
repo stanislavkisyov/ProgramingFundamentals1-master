@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Phonebook", "01.Phonebook\01.Phonebook.csproj", "{3DA5E794-2238-41F0-8705-D068AE7C4505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Phonebook_Upgrade", "02.Phonebook_Upgrade\02.Phonebook_Upgrade.csproj", "{D4D2BC35-5CA7-4A85-A5B1-3FABFADD0704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.A_Miner_Task", "03.A_Miner_Task\03.A_Miner_Task.csproj", "{F4A236DB-607D-4161-A9F7-5B1FD16AC35E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Fix_Emails", "04.Fix_Emails\04.Fix_Emails.csproj", "{640E645E-935A-402E-B04B-5F65AAE5BA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Hands_of_Cards", "05.Hands_of_Cards\05.Hands_of_Cards.csproj", "{57C4E2AD-0ED7-45A8-AFE4-1EB963845B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Logs_Aggregator", "08.Logs_Aggregator\08.Logs_Aggregator.csproj", "{2C7B72A9-5E7A-4D61-9B7F-9C981C2255AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA5E794-2238-41F0-8705-D068AE7C4505}.Debug|x86.ActiveCfg = Debug|x86
+		{3DA5E794-2238-41F0-8705-D068AE7C4505}.Debug|x86.Build.0 = Debug|x86
+		{3DA5E794-2238-41F0-8705-D068AE7C4505}.Release|x86.ActiveCfg = Release|x86
+		{3DA5E794-2238-41F0-8705-D068AE7C4505}.Release|x86.Build.0 = Release|x86
+		{D4D2BC35-5CA7-4A85-A5B1-3FABFADD0704}.Debug|x86.ActiveCfg = Debug|x86
+		{D4D2BC35-5CA7-4A85-A5B1-3FABFADD0704}.Debug|x86.Build.0 = Debug|x86
+		{D4D2BC35-5CA7-4A85-A5B1-3FABFADD0704}.Release|x86.ActiveCfg = Release|x86
+		{D4D2BC35-5CA7-4A85-A5B1-3FABFADD0704}.Release|x86.Build.0 = Release|x86
+		{F4A236DB-607D-4161-A9F7-5B1FD16AC35E}.Debug|x86.ActiveCfg = Debug|x86
+		{F4A236DB-607D-4161-A9F7-5B1FD16AC35E}.Debug|x86.Build.0 = Debug|x86
+		{F4A236DB-607D-4161-A9F7-5B1FD16AC35E}.Release|x86.ActiveCfg = Release|x86
+		{F4A236DB-607D-4161-A9F7-5B1FD16AC35E}.Release|x86.Build.0 = Release|x86
+		{640E645E-935A-402E-B04B-5F65AAE5BA3D}.Debug|x86.ActiveCfg = Debug|x86
+		{640E645E-935A-402E-B04B-5F65AAE5BA3D}.Debug|x86.Build.0 = Debug|x86
+		{640E645E-935A-402E-B04B-5F65AAE5BA3D}.Release|x86.ActiveCfg = Release|x86
+		{640E645E-935A-402E-B04B-5F65AAE5BA3D}.Release|x86.Build.0 = Release|x86
+		{57C4E2AD-0ED7-45A8-AFE4-1EB963845B78}.Debug|x86.ActiveCfg = Debug|x86
+		{57C4E2AD-0ED7-45A8-AFE4-1EB963845B78}.Debug|x86.Build.0 = Debug|x86
+		{57C4E2AD-0ED7-45A8-AFE4-1EB963845B78}.Release|x86.ActiveCfg = Release|x86
+		{57C4E2AD-0ED7-45A8-AFE4-1EB963845B78}.Release|x86.Build.0 = Release|x86
+		{2C7B72A9-5E7A-4D61-9B7F-9C981C2255AE}.Debug|x86.ActiveCfg = Debug|x86
+		{2C7B72A9-5E7A-4D61-9B7F-9C981C2255AE}.Debug|x86.Build.0 = Debug|x86
+		{2C7B72A9-5E7A-4D61-9B7F-9C981C2255AE}.Release|x86.ActiveCfg = Release|x86
+		{2C7B72A9-5E7A-4D61-9B7F-9C981C2255AE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

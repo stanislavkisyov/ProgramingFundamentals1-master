@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Reverse_String", "01.Reverse_String\01.Reverse_String.csproj", "{BAA8C4E0-1ABF-4BCE-BAD3-6AB1DE37B560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Count_Substring_Occurrences", "02.Count_Substring_Occurrences\02.Count_Substring_Occurrences.csproj", "{32EE1A41-3188-476B-AA55-A79D96CFE6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Text_Filter", "03.Text_Filter\03.Text_Filter.csproj", "{9EF9BD42-0400-46A3-B41B-0FA551C91BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Palindromes", "04.Palindromes\04.Palindromes.csproj", "{9A109B57-6CCF-4571-B781-A29732D8CD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAA8C4E0-1ABF-4BCE-BAD3-6AB1DE37B560}.Debug|x86.ActiveCfg = Debug|x86
+		{BAA8C4E0-1ABF-4BCE-BAD3-6AB1DE37B560}.Debug|x86.Build.0 = Debug|x86
+		{BAA8C4E0-1ABF-4BCE-BAD3-6AB1DE37B560}.Release|x86.ActiveCfg = Release|x86
+		{BAA8C4E0-1ABF-4BCE-BAD3-6AB1DE37B560}.Release|x86.Build.0 = Release|x86
+		{32EE1A41-3188-476B-AA55-A79D96CFE6D4}.Debug|x86.ActiveCfg = Debug|x86
+		{32EE1A41-3188-476B-AA55-A79D96CFE6D4}.Debug|x86.Build.0 = Debug|x86
+		{32EE1A41-3188-476B-AA55-A79D96CFE6D4}.Release|x86.ActiveCfg = Release|x86
+		{32EE1A41-3188-476B-AA55-A79D96CFE6D4}.Release|x86.Build.0 = Release|x86
+		{9EF9BD42-0400-46A3-B41B-0FA551C91BFE}.Debug|x86.ActiveCfg = Debug|x86
+		{9EF9BD42-0400-46A3-B41B-0FA551C91BFE}.Debug|x86.Build.0 = Debug|x86
+		{9EF9BD42-0400-46A3-B41B-0FA551C91BFE}.Release|x86.ActiveCfg = Release|x86
+		{9EF9BD42-0400-46A3-B41B-0FA551C91BFE}.Release|x86.Build.0 = Release|x86
+		{9A109B57-6CCF-4571-B781-A29732D8CD06}.Debug|x86.ActiveCfg = Debug|x86
+		{9A109B57-6CCF-4571-B781-A29732D8CD06}.Debug|x86.Build.0 = Debug|x86
+		{9A109B57-6CCF-4571-B781-A29732D8CD06}.Release|x86.ActiveCfg = Release|x86
+		{9A109B57-6CCF-4571-B781-A29732D8CD06}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
